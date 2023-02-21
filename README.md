@@ -1,6 +1,6 @@
 # dnd-dice-roller
 
-This is a dice roller for DnD and also a random number generater.
+This is a dice roller for DnD and also a random number generater. This just uses https://dnddiceroller.zameerlovesmath.repl.co/.
 
 # Installation
 
